@@ -42,18 +42,21 @@
  .cont ainer{
 	 margin: 0;
  }
+ .container{
+	margin: 1% 0;
+ }
   .container div{ 
-	  margin: 0;
-	  background-color:white; 
+	 margin: 0;
+	 background-color:white; 
   }
   .container img{
-	  float:left;
-	  max-width:30%;
-	  padding:0;
+	float:left;
+	max-width:30%;
+	padding:0;
   }
   .container input{
-	  border: none;
-	 border-left: 2px solid #e4e5e9;
+	border: none;
+	border-left: 2px solid #e4e5e9;
 	font-size:1.6em;	
 	padding:0;
 	margin:1em 0;
@@ -64,17 +67,17 @@
    margin:0;
   }
   footer input{
-	  width:100%;
-	  color:white;
-	  background-color:#5fc0cd;
-	  padding:1em;
-	  letter-spacing:1em;
-	  border:none;
-	  font-size:1.5em;
+	width:100%;
+	color:white;
+	background-color:#5fc0cd;
+	padding:1em;
+	letter-spacing:1em;
+	border:none;
+	font-size:1.5em;
   }
   footer p{
-	  float:right;
-	  color:#5fc0cd;
-	   margin: 0em 1em;  
+	float:right;
+	color:#5fc0cd;
+	margin: 0.2em 1em;  
   }
 
