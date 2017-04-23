@@ -39,11 +39,8 @@
 	 letter-spacing:0.1em;
 	 font-weight:bold;
  }
- .cont ainer{
-	 margin: 0;
- }
  .container{
-	margin: 1% 0;
+	 margin:1em 0;
  }
   .container div{ 
 	 margin: 0;
@@ -59,7 +56,7 @@
 	border-left: 2px solid #e4e5e9;
 	font-size:1.6em;	
 	padding:0;
-	margin:1em 0;
+	margin:1.1em 0;
 	width: 50%;
 	color:#e7e8ee;	
 }
